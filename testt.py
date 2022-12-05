@@ -4,7 +4,7 @@ st.markdown("# Welcome!")
 
 st.snow() 
     
-st.markdown("# Welcome to the Rent Predictor 🏘🎄")
+st.markdown("# Predict Your Round at Augusta National")
 
 st.markdown("# ENJOY!")
 st.sidebar.markdown("# Welcome!🎈❄️")
