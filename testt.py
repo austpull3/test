@@ -13,5 +13,5 @@ from PIL import Image
 image1 = Image.open('anational.webp')
 st.image(image1)
 
-
+ st.sidebar.button("Press me!")
 
