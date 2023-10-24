@@ -16,3 +16,7 @@ st.image(image1)
 
 st.sidebar.button("Press me!")
 
+server = 'HOWE-ACCT-SERV\SAGE300CRE'
+database = 'HoweInc'
+username = 'sa'
+password = 'L+S3jr3fP@*1'
